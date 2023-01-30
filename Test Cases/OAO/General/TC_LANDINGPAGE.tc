@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_LANDINGPAGE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acb73aed-8a90-4b92-a984-808529d6913e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3830624f-baa5-4022-a129-d206d1d221b6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3830624f-baa5-4022-a129-d206d1d221b6</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

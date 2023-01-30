@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Email_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89712463-00a2-4773-b28c-2ccac42b2ebc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c64fcf28-3fce-4db4-90c8-b3df68dc663c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>c64fcf28-3fce-4db4-90c8-b3df68dc663c</id>
+      <masked>false</masked>
+      <name>individualRun</name>
+   </variable>
+</TestCaseEntity>

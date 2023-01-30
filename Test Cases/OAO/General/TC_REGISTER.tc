@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_REGISTER</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a52868f-ef84-4923-9401-dc0860448366</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55b79608-f270-44b7-8893-eb6db220a374</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>55b79608-f270-44b7-8893-eb6db220a374</id>
+      <masked>false</masked>
+      <name>individualRun</name>
+   </variable>
+</TestCaseEntity>

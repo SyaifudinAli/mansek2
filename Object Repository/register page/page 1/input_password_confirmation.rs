@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_password_confirmation</name>
+   <tag></tag>
+   <elementGuidId>c996eee9-2921-42bb-8a30-62d7391e702d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name='passwordConfirmation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name='passwordConfirmation']</value>
+      <webElementGuid>3ad15370-72cf-48c7-8be0-92a5cfd96071</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
